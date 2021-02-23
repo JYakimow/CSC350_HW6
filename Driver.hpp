@@ -1,8 +1,6 @@
-#include "Driver.cpp"
+//#include "Driver.cpp"
 #include <iostream>
 #include <string.h>
 
-class main
-{
-    
-};
+string convertToInt(string jsonInput)
+int main(int argc, char** argv)
